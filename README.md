@@ -16,10 +16,11 @@
     - install code command
         - in VSCode press command + shift + p & enter "Install code command in Path"
     - sync with other devices via GitHub account
-8. install nvm
+8. install Node
+9. install nvm
     - https://github.com/nvm-sh/nvm
-9. install dotnet SDK
-10. change Terminal
+10. install dotnet SDK
+11. change Terminal
     - install ITerm2
     - install oh-my-zsh
     - theme: preferences > profiles > colors > import file from /iterm2/iterm2theme
@@ -27,4 +28,4 @@
     - fonts: clone repo from https://github.com/powerline/fonts
         - cd into font folder and intall run .sh file (`bash install.sh`) 
         - preferences > profiles > text > "Source Code Pro"; Size 13; vi 101
-11. install jumpcut (clipboard manager)
+12. install jumpcut (clipboard manager)
