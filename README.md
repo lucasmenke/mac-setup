@@ -17,7 +17,7 @@
         - in VSCode press command + shift + p & enter "Install code command in Path"
     - sync with other devices via GitHub account
 8. install nvm
-    - `brew install nvm`
+    - https://github.com/nvm-sh/nvm
 9. install dotnet SDK
 10. change Terminal
     - install ITerm2
