@@ -3,6 +3,8 @@
 3. install Chrome & Firefox
 4. install Git
     - open terminal, write `Git` & press Enter
+    - run `git config --global user.email "you@example.com"`
+    - run `git config --global user.name "Your Name"`
 5. install Homebrew
     - read output after installation & run terminal commands (if they appear)
 6. set up GitHub
@@ -25,3 +27,4 @@
     - fonts: clone repo from https://github.com/powerline/fonts
         - cd into font folder and intall run .sh file (`bash install.sh`) 
         - preferences > profiles > text > "Source Code Pro"; Size 13; vi 101
+11. install jumpcut (clipboard manager)
