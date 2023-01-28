@@ -12,14 +12,14 @@
         - `ssh-keygen -t rsa -b 4096 -C "my@mail.com"`
         - `eval "$(ssh-agent -s)"`
         - copy key from generated file & past ad it to GitHub SSH keys
-7. install VSCode
+7. install Node
+8. install nvm
+    - https://github.com/nvm-sh/nvm
+9. install dotnet SDK
+10. install VSCode
     - install code command
         - in VSCode press command + shift + p & enter "Install code command in Path"
     - sync with other devices via GitHub account
-8. install Node
-9. install nvm
-    - https://github.com/nvm-sh/nvm
-10. install dotnet SDK
 11. change Terminal
     - install ITerm2
     - install oh-my-zsh
