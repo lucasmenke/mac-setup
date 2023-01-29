@@ -30,3 +30,4 @@
         - preferences > profiles > text > "Source Code Pro"; Size 13; vi 101
 12. install jumpcut (clipboard manager)
 13. install Obsidian (markdown editor)
+14. install GitKraken
