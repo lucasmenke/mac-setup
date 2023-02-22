@@ -28,6 +28,6 @@
     - fonts: clone repo from https://github.com/powerline/fonts
         - cd into font folder and intall run .sh file (`bash install.sh`) 
         - preferences > profiles > text > "Source Code Pro"; Size 13; vi 101
-12. install jumpcut (clipboard manager)
+12. install Maccy (clipboard manager)
 13. install Obsidian (markdown editor)
 14. install GitKraken
